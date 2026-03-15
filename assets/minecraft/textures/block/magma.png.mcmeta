@@ -1,1 +1,16 @@
-{"fusion": {"type": "continuous","rows": 2,"columns": 2}}
+{
+    "animation": {
+        "frametime": 8,
+        "interpolate": true,
+        "frames": [
+            0,
+            1,
+            2
+        ]
+    },
+    "fusion": {
+        "type": "continuous",
+        "rows": 2,
+        "columns": 2
+    }
+}

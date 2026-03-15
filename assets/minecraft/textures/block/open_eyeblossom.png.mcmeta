@@ -1,1 +1,10 @@
-{"fusion": {"type": "continuous","rows": 2,"columns": 2}}
+{
+    "texture": {
+        "mipmap_strategy": "strict_cutout"
+    },
+    "fusion": {
+        "type": "continuous",
+        "rows": 2,
+        "columns": 2
+    }
+}
