@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/button",
+    "textures": {
+        "texture": "minecraft:block/bamboo_planks"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

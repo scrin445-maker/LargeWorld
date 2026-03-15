@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/fence_side",
+    "textures": {
+        "texture": "minecraft:block/nether_bricks"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

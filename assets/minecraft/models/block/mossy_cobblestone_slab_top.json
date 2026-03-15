@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+        "bottom": "minecraft:block/mossy_cobblestone",
+        "side": "minecraft:block/mossy_cobblestone",
+        "top": "minecraft:block/mossy_cobblestone"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_chorus_flower",
+    "textures": {
+        "texture": "minecraft:block/chorus_flower"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

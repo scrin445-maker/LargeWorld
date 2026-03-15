@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "minecraft:block/magenta_concrete"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

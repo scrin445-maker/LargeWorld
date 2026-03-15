@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/slab",
+    "textures": {
+        "bottom": "minecraft:block/andesite",
+        "side": "minecraft:block/andesite",
+        "top": "minecraft:block/andesite"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

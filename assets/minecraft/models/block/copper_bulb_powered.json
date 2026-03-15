@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "minecraft:block/copper_bulb_powered"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

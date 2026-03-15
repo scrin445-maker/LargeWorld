@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_wall_post",
+    "textures": {
+        "wall": "minecraft:block/polished_tuff"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

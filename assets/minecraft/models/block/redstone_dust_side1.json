@@ -1,0 +1,8 @@
+{
+    "parent": "block/redstone_dust_side",
+    "textures": {
+        "line": "block/redstone_dust_line1"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

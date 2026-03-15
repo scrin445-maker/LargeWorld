@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_wall_post",
+    "textures": {
+        "wall": "minecraft:block/cobbled_deepslate"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

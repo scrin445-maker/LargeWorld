@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:block/stairs",
+    "textures": {
+        "bottom": "minecraft:block/jungle_planks",
+        "side": "minecraft:block/jungle_planks",
+        "top": "minecraft:block/jungle_planks"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

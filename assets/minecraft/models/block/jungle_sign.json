@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:block/jungle_planks"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/template_three_candles",
+    "textures": {
+        "all": "minecraft:block/candle",
+        "particle": "minecraft:block/candle"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

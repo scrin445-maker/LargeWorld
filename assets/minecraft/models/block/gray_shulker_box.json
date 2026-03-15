@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:block/gray_shulker_box"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

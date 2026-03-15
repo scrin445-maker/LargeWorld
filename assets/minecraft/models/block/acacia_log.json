@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:block/acacia_log_top",
+        "side": "minecraft:block/acacia_log"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

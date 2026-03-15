@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/flower_pot_cross_emissive",
+    "textures": {
+        "cross_emissive": "minecraft:block/open_eyeblossom_emissive",
+        "plant": "minecraft:block/open_eyeblossom"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

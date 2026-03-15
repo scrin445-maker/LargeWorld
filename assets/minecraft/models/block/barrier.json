@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:item/barrier"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

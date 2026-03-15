@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_fire_up_alt",
+    "textures": {
+        "fire": "minecraft:block/fire_0"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

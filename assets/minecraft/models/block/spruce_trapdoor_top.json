@@ -1,0 +1,8 @@
+{
+    "loader": "fusion:model",
+    "type": "base",
+    "parent": "block/template_orientable_trapdoor_top",
+    "textures": {
+        "texture": "block/spruce_trapdoor"
+    }
+}

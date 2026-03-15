@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:block/terracotta"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

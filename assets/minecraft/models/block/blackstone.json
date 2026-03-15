@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:block/blackstone_top",
+        "side": "minecraft:block/blackstone"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

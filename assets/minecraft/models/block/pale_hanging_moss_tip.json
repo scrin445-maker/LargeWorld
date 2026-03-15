@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "minecraft:block/pale_hanging_moss_tip"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

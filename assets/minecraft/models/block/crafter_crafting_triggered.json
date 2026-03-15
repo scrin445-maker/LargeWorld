@@ -1,0 +1,5 @@
+{
+    "parent": "block/crafter_crafting",
+    "loader": "fusion:model",
+    "type": "base"
+}

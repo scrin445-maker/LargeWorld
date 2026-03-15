@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_lightning_rod",
+    "textures": {
+        "texture": "minecraft:block/weathered_lightning_rod"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

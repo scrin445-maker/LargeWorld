@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/stem_growth2",
+    "textures": {
+        "stem": "minecraft:block/pumpkin_stem"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

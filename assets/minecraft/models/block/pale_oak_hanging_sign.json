@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:block/stripped_pale_oak_log"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}
