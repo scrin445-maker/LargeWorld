@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/lily_pad"
+      },
+      {
+        "model": "minecraft:block/lily_pad",
+        "y": 90,
+      "uvlock": true
+      },
+      {
+        "model": "minecraft:block/lily_pad",
+        "y": 180,
+      "uvlock": true
+      },
+      {
+        "model": "minecraft:block/lily_pad",
+        "y": 270,
+      "uvlock": true
+      }
+    ]
+  }
+}
