@@ -1,3 +1,6 @@
+import os
+from PIL import Image
+
 # 1. Unpack resourcepacks if .zip files
 # 2. Create output resourcepack
 # 3. Scan resourcepacks for textures
@@ -7,5 +10,30 @@
 # 6. Store in matching folder in output
 # 6.5. Group folders together based on a group.json file
 
+
+
 if __name__ == "__main__":
-    pass
+    
+    # Walk input folder for resourcepacks
+    for root, dirs, files in os.walk("./src/input"):
+        
+        # Look for textures
+        for infile in files:
+            if infile.endswith(".png") and "white" in infile:
+                
+                texture_name = infile.replace(".png", "")
+                texture = Image.open(os.path.join(root, infile))
+                texturemap = []
+
+                # Crop starting from the upper left
+                for y in range(2):
+                    for x in range(2):
+                        box = [x * 8, y * 8, 8 * (x + 1), 8 * (y + 1)]
+                        texturemap.append(texture.crop(box))
+                
+                # Continuity starts from the bottom left so name tiles appropriately        
+                texturemap[2].save("0.png")
+                texturemap[3].save("1.png")
+                texturemap[0].save("2.png")
+                texturemap[1].save("3.png")
+
