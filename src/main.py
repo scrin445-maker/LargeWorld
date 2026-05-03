@@ -29,7 +29,10 @@ if __name__ == "__main__":
                     
                     texture_name = infile.replace(".png", "")
                     texture = Image.open(os.path.join(root, infile))
+                    output += texture_name
                     texturemap = []
+
+                    os.makedirs(output)
 
                     # Crop starting from the upper left
                     for y in range(2):
@@ -38,8 +41,8 @@ if __name__ == "__main__":
                             texturemap.append(texture.crop(box))
                     
                     # Continuity starts from the bottom left so name tiles appropriately        
-                    texturemap[2].save("0.png")
-                    texturemap[3].save("1.png")
-                    texturemap[0].save("2.png")
-                    texturemap[1].save("3.png")
+                    texturemap[2].save(output + "/0.png")
+                    texturemap[3].save(output + "/1.png")
+                    texturemap[0].save(output + "/2.png")
+                    texturemap[1].save(output + "/3.png")
 
