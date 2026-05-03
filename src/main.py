@@ -45,4 +45,7 @@ if __name__ == "__main__":
                     texturemap[3].save(output + "/1.png")
                     texturemap[0].save(output + "/2.png")
                     texturemap[1].save(output + "/3.png")
-
+                    
+                    with open(output + "/{}.properties".format(texture_name), "w") as f:
+                        f.write("matchTiles={}\nmethod=repeat\ntiles=0-4\n".format(texture_name))
+                        f.close()
