@@ -25,7 +25,7 @@ if __name__ == "__main__":
             
             # Look for textures
             for infile in files:
-                if infile.endswith(".png") and "white" in infile:
+                if infile.endswith(".png"):
                     
                     texture_name = infile.replace(".png", "")
                     texture = Image.open(os.path.join(root, infile))
