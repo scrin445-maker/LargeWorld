@@ -11,8 +11,6 @@ import shutil
 # 6. Store in matching folder in output
 # 6.5. Group folders together based on a group.json file
 
-
-
 if __name__ == "__main__":
 
     # Create output resourcepack
@@ -32,7 +30,7 @@ if __name__ == "__main__":
                     outfolder = output + texture_name
                     texturemap = []
 
-                    os.makedirs(outfolder)
+                    os.makedirs(outfolder, exist_ok=True)
 
                     # Crop starting from the upper left
                     for y in range(2):
