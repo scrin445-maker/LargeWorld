@@ -1,0 +1,95 @@
+{
+    "format_version": "1.21.11",
+    "credit": "Made with Blockbench",
+    "textures": {
+        "particle": "#texture"
+    },
+    "elements": [
+        {
+            "from": [
+                0,
+                0,
+                10
+            ],
+            "to": [
+                16,
+                16,
+                16
+            ],
+            "rotation": {
+                "angle": 0,
+                "axis": "y",
+                "origin": [
+                    0,
+                    0,
+                    -3
+                ]
+            },
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        16,
+                        16,
+                        0
+                    ],
+                    "texture": "#texture"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        6,
+                        16,
+                        0
+                    ],
+                    "rotation": 90,
+                    "texture": "#texture",
+                    "cullface": "east"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        16,
+                        16,
+                        0
+                    ],
+                    "texture": "#texture",
+                    "cullface": "south"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        6
+                    ],
+                    "rotation": 90,
+                    "texture": "#texture",
+                    "cullface": "west"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        6,
+                        16,
+                        0
+                    ],
+                    "texture": "#texture",
+                    "cullface": "up"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        0,
+                        16,
+                        6
+                    ],
+                    "texture": "#texture",
+                    "cullface": "down"
+                }
+            }
+        }
+    ],
+    "loader": "fusion:model",
+    "type": "base"
+}

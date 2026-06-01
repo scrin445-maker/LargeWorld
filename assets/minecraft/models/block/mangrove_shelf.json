@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/template_shelf_body",
+    "textures": {
+        "all": "minecraft:block/mangrove_shelf",
+        "particle": "minecraft:block/stripped_mangrove_log"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

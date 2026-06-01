@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/tinted_flower_pot_cross",
+    "textures": {
+        "plant": "minecraft:block/fern"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

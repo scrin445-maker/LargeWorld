@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:missingno"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:block/deepslate_top",
+        "side": "minecraft:block/deepslate"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

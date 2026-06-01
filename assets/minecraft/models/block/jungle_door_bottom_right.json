@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/door_bottom_right",
+    "textures": {
+        "bottom": "minecraft:block/jungle_door_bottom",
+        "top": "minecraft:block/jungle_door_top"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

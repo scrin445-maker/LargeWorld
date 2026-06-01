@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "facing=east,lit=false": {
+      "model": "minecraft:block/blast_furnace",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=east,lit=true": {
+      "model": "minecraft:block/blast_furnace_on",
+      "y": 90,
+      "uvlock": true
+    },
+    "facing=north,lit=false": {
+      "model": "minecraft:block/blast_furnace"
+    },
+    "facing=north,lit=true": {
+      "model": "minecraft:block/blast_furnace_on"
+    },
+    "facing=south,lit=false": {
+      "model": "minecraft:block/blast_furnace",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=south,lit=true": {
+      "model": "minecraft:block/blast_furnace_on",
+      "y": 180,
+      "uvlock": true
+    },
+    "facing=west,lit=false": {
+      "model": "minecraft:block/blast_furnace",
+      "y": 270,
+      "uvlock": true
+    },
+    "facing=west,lit=true": {
+      "model": "minecraft:block/blast_furnace_on",
+      "y": 270,
+      "uvlock": true
+    }
+  }
+}

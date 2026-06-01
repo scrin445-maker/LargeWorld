@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:block/creaking_heart_top",
+        "side": "minecraft:block/creaking_heart"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

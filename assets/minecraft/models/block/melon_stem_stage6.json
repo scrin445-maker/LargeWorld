@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/stem_growth6",
+    "textures": {
+        "stem": "minecraft:block/melon_stem"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

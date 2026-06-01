@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cube_all_inner_faces",
+    "textures": {
+        "all": "minecraft:block/spawner"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

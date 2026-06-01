@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+        "end": "minecraft:block/target_top",
+        "side": "minecraft:block/target_side"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

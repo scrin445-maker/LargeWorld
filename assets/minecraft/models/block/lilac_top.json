@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "minecraft:block/lilac_top"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/flowerbed_4",
+    "textures": {
+        "flowerbed": "minecraft:block/pink_petals",
+        "stem": "minecraft:block/pink_petals_stem"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

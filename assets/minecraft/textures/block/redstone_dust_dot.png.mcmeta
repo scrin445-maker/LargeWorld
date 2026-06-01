@@ -1,0 +1,10 @@
+{
+    "texture": {
+        "mipmap_strategy": "mean"
+    },
+    "fusion": {
+        "type": "continuous",
+        "rows": 2,
+        "columns": 2
+    }
+}

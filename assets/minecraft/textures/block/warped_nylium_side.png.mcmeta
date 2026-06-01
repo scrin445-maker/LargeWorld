@@ -1,0 +1,5 @@
+{"fusion": {"type": "continuous","rows": 2,"columns": 2},
+"animation": {
+    "interpolate": true,
+    "frametime": 10
+  }}

@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:block/acacia_planks"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

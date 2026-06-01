@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/flower_pot_cross",
+    "textures": {
+        "plant": "minecraft:block/poppy"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

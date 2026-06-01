@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:block/template_azalea",
+    "textures": {
+        "side": "minecraft:block/flowering_azalea_side",
+        "top": "minecraft:block/flowering_azalea_top"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

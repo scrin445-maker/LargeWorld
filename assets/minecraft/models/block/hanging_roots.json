@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/cross",
+    "textures": {
+        "cross": "minecraft:block/hanging_roots"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

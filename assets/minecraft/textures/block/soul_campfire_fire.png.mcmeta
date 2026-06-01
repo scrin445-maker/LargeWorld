@@ -1,0 +1,10 @@
+{
+    "animation": {
+        "frametime": 2
+    },
+    "fusion": {
+        "type": "continuous",
+        "rows": 2,
+        "columns": 2
+    }
+}

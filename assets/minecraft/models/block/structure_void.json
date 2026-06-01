@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:item/structure_void"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

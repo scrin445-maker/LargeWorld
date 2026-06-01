@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_glazed_terracotta",
+    "textures": {
+        "pattern": "minecraft:block/blue_glazed_terracotta"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

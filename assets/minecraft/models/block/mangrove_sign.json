@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:block/mangrove_planks"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}

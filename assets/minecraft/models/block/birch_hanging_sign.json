@@ -1,0 +1,7 @@
+{
+    "textures": {
+        "particle": "minecraft:block/stripped_birch_log"
+    },
+    "loader": "fusion:model",
+    "type": "base"
+}
