@@ -45,5 +45,5 @@ if __name__ == "__main__":
                     texturemap[1].save(outfolder + "/3.png")
                     
                     with open(outfolder + "/{}.properties".format(texture_name), "w") as f:
-                        f.write("matchTiles={}\nmethod=repeat\ntiles=0-4\n".format(texture_name))
+                        f.write("matchTiles={}\nmethod=repeat\nwidth=2\nheight=2\ntiles=0-3\n".format(texture_name))
                         f.close()
