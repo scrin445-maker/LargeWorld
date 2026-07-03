@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "minecraft:block/warped_planks"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

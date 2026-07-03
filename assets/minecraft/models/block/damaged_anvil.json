@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/template_anvil",
-    "textures": {
-        "top": "minecraft:block/damaged_anvil_top"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

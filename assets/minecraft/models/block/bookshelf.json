@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block/cube_column",
-    "textures": {
-        "end": "minecraft:block/oak_planks",
-        "side": "minecraft:block/bookshelf"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

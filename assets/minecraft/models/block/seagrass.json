@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/template_seagrass",
-    "textures": {
-        "texture": "minecraft:block/seagrass"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

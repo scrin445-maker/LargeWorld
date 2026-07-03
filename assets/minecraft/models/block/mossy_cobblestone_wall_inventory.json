@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/wall_inventory",
-    "textures": {
-        "wall": "minecraft:block/mossy_cobblestone"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

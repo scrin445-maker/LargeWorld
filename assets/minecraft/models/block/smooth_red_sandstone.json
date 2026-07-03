@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "minecraft:block/red_sandstone_top"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

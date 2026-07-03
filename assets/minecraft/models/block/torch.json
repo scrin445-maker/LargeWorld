@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/template_torch",
-    "textures": {
-        "torch": "minecraft:block/torch"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

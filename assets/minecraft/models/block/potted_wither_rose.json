@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/flower_pot_cross",
-    "textures": {
-        "plant": "minecraft:block/wither_rose"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

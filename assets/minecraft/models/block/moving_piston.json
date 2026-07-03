@@ -1,7 +1,0 @@
-{
-    "textures": {
-        "particle": "minecraft:block/piston_side"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

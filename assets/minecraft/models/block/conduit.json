@@ -1,7 +1,0 @@
-{
-    "textures": {
-        "particle": "minecraft:block/conduit"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

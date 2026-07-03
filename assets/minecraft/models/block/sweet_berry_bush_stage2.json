@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/cross",
-    "textures": {
-        "cross": "minecraft:block/sweet_berry_bush_stage2"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

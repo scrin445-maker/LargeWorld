@@ -1,8 +1,0 @@
-{
-    "parent": "block/orientable_with_bottom",
-    "textures": {
-        "bottom": "#top"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

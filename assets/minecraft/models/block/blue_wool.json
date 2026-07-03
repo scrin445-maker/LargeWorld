@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-        "all": "minecraft:block/blue_wool"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

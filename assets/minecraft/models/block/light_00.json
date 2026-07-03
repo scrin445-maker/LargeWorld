@@ -1,7 +1,0 @@
-{
-    "textures": {
-        "particle": "minecraft:item/light_00"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

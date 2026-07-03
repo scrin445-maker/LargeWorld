@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/crop",
-    "textures": {
-        "crop": "minecraft:block/carrots_stage2"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

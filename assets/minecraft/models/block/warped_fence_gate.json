@@ -1,8 +1,0 @@
-{
-    "parent": "minecraft:block/template_fence_gate",
-    "textures": {
-        "texture": "minecraft:block/warped_planks"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

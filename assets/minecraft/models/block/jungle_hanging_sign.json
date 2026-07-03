@@ -1,7 +1,0 @@
-{
-    "textures": {
-        "particle": "minecraft:block/stripped_jungle_log"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}

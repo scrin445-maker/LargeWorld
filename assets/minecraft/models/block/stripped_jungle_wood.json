@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:block/cube_column",
-    "textures": {
-        "end": "minecraft:block/stripped_jungle_log",
-        "side": "minecraft:block/stripped_jungle_log"
-    },
-    "loader": "fusion:model",
-    "type": "base"
-}
