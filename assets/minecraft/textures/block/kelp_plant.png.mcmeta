@@ -1,0 +1,13 @@
+{
+    "animation": {
+        "frametime": 2
+    },
+    "texture": {
+        "alpha_cutoff_bias": 0.1
+    },
+    "fusion": {
+        "type": "continuous",
+        "rows": 2,
+        "columns": 2
+    }
+}

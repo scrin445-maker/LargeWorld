@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 75,
+    "supported_formats": {
+      "min_inclusive": 75,
+      "max_inclusive": 75
+    },
+    "fusion": {
+      "min_version": "1.21.12"
+    },
+    "description": "Example resource pack for Fusion"
+  }
+}
