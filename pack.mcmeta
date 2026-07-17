@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "min_format": 15,
+    "max_format": 75,
+    "description": "Large world resourcepack"
+  },
+  "fusion": {
+    "min_version": "1.3.5"
+  }
+}
